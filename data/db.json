@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "machine learning",
+      "body": "tswelopele ipsum...",
+      "author": "Tswelopele",
+      "id": 1
+    },
+    {
+      "title": "deep learning",
+      "body": "tswelopele ipsum...",
+      "author": "Junior",
+      "id": 2
+    },
+    {
+      "title": "data science",
+      "body": "tswelopele ipsum...",
+      "author": "Tswelopele",
+      "id": 3
+    },
+    {
+      "title": "artificial intelligence",
+      "body": "taba tse monate",
+      "author": "Tswelopele",
+      "id": 5
+    },
+    {
+      "title": "Web Development",
+      "body": "web development is one of the best field in tech.",
+      "author": "Junior",
+      "id": 6
+    }
+  ]
+}
